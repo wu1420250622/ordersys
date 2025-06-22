@@ -9,10 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "firebase": "^11.9.1",
     "next": "15.3.4",
     "react": "19.1.0",
-    "react-dom": "19.1.0"
+    "react-dom": "19.1.0",
+    "firebase": "^9.22.1"
   },
   "devDependencies": {
     "eslint": "9.29.0",
